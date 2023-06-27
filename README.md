@@ -54,6 +54,8 @@ export const App = () => {
 | `options`         | object | `false`  |         | The options for saving your downloaded image.      |
 | `options.quality` | object |          | `0.7`   | The desired quality of the image. Default is `0.7` |
 
+See the [example](https://github.com/Kieran-McIntyre/react-html-to-image/blob/main/example/src/App.tsx) for sample implementation.
+
 ## Known issues
 
 - `<img />` within `display: flex` containers do not show in the downloaded image.
