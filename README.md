@@ -1,19 +1,19 @@
 # react-html-to-image
 
-A simple React hook to download your `HTML` markup as a `.jpg` image.
+A simple `React` hook to download your `HTML` markup as a `.jpg` image.
 
 ## Installation
 
-Using npm:
-
-```sh
-npm install react-html-to-image
-```
-
-or with yarn:
+Using yarn:
 
 ```sh
 yarn add react-html-to-image
+```
+
+or with npm:
+
+```sh
+npm install react-html-to-image
 ```
 
 ## Usage
