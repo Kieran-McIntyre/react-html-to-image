@@ -7,3 +7,5 @@ example/node_modules
 
 # Build
 dist
+
+.DS_Store
